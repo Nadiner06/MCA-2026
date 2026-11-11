@@ -25,5 +25,5 @@ The areas that worked well were the note selection; I think this was very easy t
 **The Challenges**  
 One thing I did find challenging and struggled to do was display the bars like the original version that I was working with, there wasn't enough space to display all the bars on the first line, and so it had to go onto a new line, so there were only 6 bars on top and then the rest followed. Through multiple tries, I just couldn’t quite get the bars to fit in the top one, which was frustrating, but when played back, it never really interfered with the way it sounded compared to the original or the audio version. After looking through MuseScore, I was able to lock the number of bars per system, which was found in the format tab.
 
-** The Changes**  
+**The Changes**   
 One thing I decided to leave out was a small note on bar 10 that sat above the original note. After a little searching, I think it is called a crush note, a small note with a slash through its stem. I played around with MuseScore and its different functions however, I was never able to complete this note. When playing the piece that I had created, I never noticed any major difference in the sound of my piece compared to the original, so I felt that it wasn't necessary to add this in.
