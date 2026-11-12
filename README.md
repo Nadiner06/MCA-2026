@@ -1,5 +1,6 @@
 
 # Music Curation and Analytics Portfolio
+<link rel="stylesheet" href="css/style.css">
 <!-- Version 1.0 -->
 <header>
     <div class="logo">My Website</div>
