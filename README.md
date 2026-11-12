@@ -4,7 +4,6 @@
 ## Week 1
 The Theme I picked for my Portfolio is the song Married Life by Michael Giacchino. This song was composed for Disney's Pixar animated movie, UP. It was composed and published in 2009 by Walt Disney Records. It received an Oscar and Grammy for best original score in 2010.
 
-Married Life by Michael Giacchino...
 [![Watch my video](https://img.youtube.com/vi/S1uWHjhluTI/0.jpg)](https://www.youtube.com/watch?v=S1uWHjhluTI)
 
 
