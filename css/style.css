@@ -6,3 +6,26 @@
 tei-teiHeader {
   display: none;
 }
+
+body {margin: 0;
+    font-family: Arial, sans-serif;}
+
+header {background-color: #1D3557;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+/*Navigation Bar*/
+nav ul {list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;}
+
+nav a {text-decoration: none;
+    color: white;
+    font-size: 16px;}
+
+nav a:hover {color: #FFD166;}
+
