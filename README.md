@@ -1,9 +1,8 @@
 
-# Music Curation and Analytics Portfolio
 <link rel="stylesheet" href="css/style.css">
 <!-- Version 1.0 -->
 <header>
-    <div class="logo">My Website</div>
+    <div class="logo">Music Curation and Analytics Portfolio</div>
     <nav>
         <ul>
             <li><a href="week1.html">Week 1</a></li>
