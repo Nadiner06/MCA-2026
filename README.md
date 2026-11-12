@@ -2,7 +2,11 @@
 # Music Curation and Analytics Portfolio
 <!-- Version 1.0 -->
 ## Week 1
-The Theme I picked for my Portfolio is the song Married Life by Michael Giacchino. This song was composed for Disney's Pixar animated movie, UP. It was composed and published in 2009 by Walt Disney Records. It received an Oscar and Grammy for best original score in 2010.  
+The Theme I picked for my Portfolio is the song Married Life by Michael Giacchino. This song was composed for Disney's Pixar animated movie, UP. It was composed and published in 2009 by Walt Disney Records. It received an Oscar and Grammy for best original score in 2010.
+
+Married Life by Michael Giacchino...
+[![Watch my video](https://img.youtube.com/vi/S1uWHjhluTI/0.jpg)](https://www.youtube.com/watch?v=S1uWHjhluTI)
+
 
 ###### Challenges With Working With Music
 1. Access - getting access to certain music might be harder due to licensing rights, and being able to use music in projects raises issues a lot due to this. If wanting to use music within projects and it not being in the public domain you would either need to buy the rights or ask for permission and this is not always doable.
