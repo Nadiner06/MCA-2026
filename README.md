@@ -1,17 +1,22 @@
 
 # Music Curation and Analytics Portfolio
 <!-- Version 1.0 -->
-<p align="center">
-  <a href="README.md">Week 1</a> |
-  <a href="week2.html">Week 2</a> |
-  <a href="week3.md">Week 3</a> |
-  <a href="week4.md">Week 4</a> |
-  <a href="week5.md">Week 5</a> |
-  <a href="week7.md">Week 7</a> |
-  <a href="week8.md">Week 8</a> |
-  <a href="week9.md">Week 9</a> |
-  <a href="week10.md">Week 10</a>
-</p>
+<header>
+    <div class="logo">My Website</div>
+    <nav>
+        <ul>
+            <li><a href="week1.html">Week 1</a></li>
+            <li><a href="week2.html">Week 2</a></li>
+            <li><a href="week3.html">Week 3</a></li>
+            <li><a href="week4.html">Week 4</a></li>
+            <li><a href="week5.html">Week 5</a></li>
+            <li><a href="week7.html">Week 7</a></li>
+            <li><a href="week8.html">Week 8</a></li>
+            <li><a href="week9.html">Week 9</a></li>
+            <li><a href="week10.html">Week 10</a></li>
+        </ul>
+    </nav>
+    </header>
 
 ## Week 1
 The Theme I picked for my Portfolio is the song Married Life by Michael Giacchino. This song was composed for Disney's Pixar animated movie, UP. It was composed and published in 2009 by Walt Disney Records. It received an Oscar and Grammy for best original score in 2010.
