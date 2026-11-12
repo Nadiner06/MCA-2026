@@ -2,7 +2,7 @@
 # Music Curation and Analytics Portfolio
 <!-- Version 1.0 -->
 ## Week 1
-The Theme I picked for my Portfolio is the song Married Life by Michael Giacchino.
+The Theme I picked for my Portfolio is the song Married Life by Michael Giacchino. This song was composed for Disney's Pixar animated movie, UP. It was composed and published in 2009 by Walt Disney Records. It received an Oscar and Grammy for best original score in 2010.  
 
 ###### Challenges With Working With Music
 1. Access - getting access to certain music might be harder due to licensing rights, and being able to use music in projects raises issues a lot due to this. If wanting to use music within projects and it not being in the public domain you would either need to buy the rights or ask for permission and this is not always doable.
@@ -19,7 +19,7 @@ My piece was composed by Michael Giacchino, he composed this piece for the movie
 ## Week 2
 My chosen piece is Married Life by Michael Giacchino, I accessed it through MuseScore and transcribed it from scratch.
 
-My Score: [Married Life](tasks/Married_life_2.mscz)
+My Score: [Married Life](docs/Married_life_2.mscz)
 
 **The Good**  
 The areas that worked well were the note selection; I think this was very easy to get used to and works well, especially when choosing different pitches. It was easy to follow and set up the original layout. I was also able to select the instrument that I wanted to use so that it sounded the same way as the original; this allowed me to correct the timbre of the piece, which I identified as piano. I was also able to add the time signature, which was a 3/4 time signature. It also allowed me to pick the key signature, which was F major. This set up my piece for me; it also helped with identifying what they meant and learning the key piece within a score and deepening my knowledge of the components of music. 
