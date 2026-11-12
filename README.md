@@ -2,7 +2,7 @@
 # Music Curation and Analytics Portfolio
 <!-- Version 1.0 -->
 <p align="center">
-  <a href="README.md">Home</a> |
+  <a href="README.md">Week 1</a> |
   <a href="week2.md">Week 2</a> |
   <a href="week3.md">Week 3</a> |
   <a href="week4.md">Week 4</a> |
