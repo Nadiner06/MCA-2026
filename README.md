@@ -6,7 +6,11 @@
   <a href="week2.md">Week 2</a> |
   <a href="week3.md">Week 3</a> |
   <a href="week4.md">Week 4</a> |
-  <a href="week5.md">Week 5</a>
+  <a href="week5.md">Week 5</a> |
+  <a href="week7.md">Week 7</a> |
+  <a href="week8.md">Week 8</a> |
+  <a href="week9.md">Week 9</a> |
+  <a href="week10.md">Week 10</a>
 </p>
 
 ## Week 1
