@@ -26,6 +26,32 @@
       <p>This week we exported our scores of our song that we completed last week into XML files and MEI files, I done this through MEI friend in which I exported 
       the XML file and imported into MEI friend to get my MEI file. We then compared and contrasted the documents and looking at the encoding standards for the notated piece of music.
       </p>
+      <div id="app">Verovio is loading...</div>
+    <script type="module">
+        import 'https://www.verovio.org/javascript/app/verovio-app.js';
+        
+        const options = {
+            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+            defaultZoom: 3, // 0-7, default is 4
+            enableResponsive: true, // default is true
+            enableDocument: true // default is true
+        }
+        
+        // A MusicXML file
+        var file = 'data/married_life_finished_verovio.mei'; //Replace this with your own MEI file, but remember that JavaScript is case sensitive!
+        // A MEI file
+        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        
+        const app = new Verovio.App(document.getElementById("app"), options);
+        fetch(file)
+            .then(function(response) {
+                return response.text();
+            })
+            .then(function(text) {
+                app.loadData(text);
+            });
+    </script>
+    </div>
     </main>
   </body>
 </html>
