@@ -49,4 +49,16 @@ main h5 {margin-top: 30px;}
 
 main p {margin-bottom: 20px;}
 
+.box {
+        display: flex;
+        flex-flow: column;
+        height: 100%;
+    }
+    .box .header {
+       flex: 0 1 auto;
+    }
+    .box #app {
+        flex: 1 1 auto;
+    }
+
 
