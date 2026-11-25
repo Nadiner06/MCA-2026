@@ -26,32 +26,27 @@
     <div class="header"><h1>Week 3</h1>
         <p>[Insert your response to task 2 here.]</p>
     </div>
-    <div id="app">Verovio is loading...</div>
-    <script type="module">
-        import 'https://www.verovio.org/javascript/app/verovio-app.js';
-        
-        const options = {
-            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
-            defaultZoom: 3, // 0-7, default is 4
-            enableResponsive: true, // default is true
-            enableDocument: true // default is true
-        }
-        
-        // A MusicXML file
-        var file = 'data/married_life_finished_verovio.mei'; //Replace this with your own MEI file, but remember that JavaScript is case sensitive!
-        // A MEI file
-        //var file = 'https://www.verovio.org/editor/brahms.mei';
-        
-        const app = new Verovio.App(document.getElementById("app"), options);
-        fetch(file)
-            .then(function(response) {
-                return response.text();
-            })
-            .then(function(text) {
-                app.loadData(text);
-            });
-    </script>
-    </div>
+    <div id="app"></div>
+
+<script type="module">
+    import 'https://editor.verovio.org/javascript/app/verovio-app.js';
+
+    const app = new Verovio.App(
+        document.getElementById("app"), {}
+    );
+
+    fetch("filename.mei")
+        .then(response => {
+            if (!response.ok) {
+                throw new Error("MEI file could not be loaded");
+            }
+            return response.text();
+        })
+        .then(text => {
+            app.loadData(text);
+        })
+        .catch(error => console.error(error));
+</script>
     </main>
   </body>
 </html>
